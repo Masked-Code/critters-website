@@ -2,12 +2,12 @@
   <div class="flex flex-col justify-center items-center min-h-96 m-[5%]">
     <div class="flex flex-col mt-24 mb-24 justify-center items-center">
       <div
-        class="gradient-text text-8xl font-bold text-center"
+        class="gradient-text text-9xl font-bold text-center mt-20"
         :style="{ animationDuration: animationDuration }"
       >
       CRITTER'S BACKYARD
       </div>
-      <div class="text-xl mt-3">
+      <div class="text-2xl mt-3 mb-10">
          Death is everywhere! Do you have what it takes to survive?
       </div>
     </div>

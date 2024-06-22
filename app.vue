@@ -1,5 +1,6 @@
 <template>
   <NuxtLayout>
+    <VideoBackground v-if="route.name == 'index'" />
     <AppHeader />
     <div>
       <NuxtPage />
@@ -9,6 +10,8 @@
 </template>
 
 <script setup lang="ts">
+import VideoBackground from '~/components/AppVideoBackground.vue';
+const route = useRoute()
 useHead({
   title: 'Critters Backyard',
   meta: [
