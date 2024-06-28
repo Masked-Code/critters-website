@@ -7,7 +7,7 @@
       >
       CRITTER'S BACKYARD
       </div>
-      <div class="text-2xl mt-3 mb-10">
+      <div class="text-3xl font-bold mt-5 mb-8">
          Death is everywhere! Do you have what it takes to survive?
       </div>
     </div>
@@ -17,7 +17,7 @@
           <UIcon name="i-heroicons-users" class="text-4xl text-primary"></UIcon>
         </template>
         <template #description>
-          Background information about the server and community Background information about the server and community Background information about the server and community Background information about the server and community
+          Critter, once a quiet farmer in Critter's Backyard, was driven mad by the brutal slaughter of his family by marauding bandits. Now, he roams the wasteland, a ruthless force of vengeance. With a scarred face and eyes burning with fury, he wields a rusty machete and a shotgun, hunting those who wronged him. His name is whispered among survivors, a legend of madness and bloodshed. Will you dare enter Critter's Backyard and uncover the dark secrets fueling his unending quest for retribution?
         </template>
       </ULandingCard>
       <ULandingCard class="col-span-6 row-span-2" title="Ideals">
@@ -25,7 +25,7 @@
           <UIcon name="i-heroicons-building-office" class="text-4xl text-primary"></UIcon>
         </template>
         <template #description>
-          Ideals and goals of the server and community Ideals and goals of the server and community Ideals and goals of the server and community Ideals and goals of the server and community Ideals and goals of the server and community
+          Survival, realism, and camaraderie. Players come together to navigate a harsh and immersive environment, prioritizing teamwork, strategy, and resourcefulness. The community values respect, fair play, and mutual support, fostering an atmosphere where players can challenge themselves and each other in a competitive yet cooperative spirit. The server encourages creative problem-solving, adaptability, and resilience, reflecting the core survivalist themes of the game while building a strong, supportive network of players.
         </template>
       </ULandingCard>
       <ULandingCard class="col-span-6 row-span-4" title="Triats">
@@ -33,7 +33,7 @@
           <UIcon name="i-heroicons-currency-dollar" class="text-4xl text-primary"></UIcon>
         </template>
         <template #description>
-          Things that make the server special Things that make the server special Things that make the server special Things that make the server special Things that make the server special
+          Our SCUM server and its community often showcase the best aspects of online gaming. The server is well-maintained, providing a stable and immersive environment for players to explore the game's rich survival mechanics. The community fosters a strong sense of camaraderie, with players readily sharing tips and resources to help one another succeed. This welcoming atmosphere encourages teamwork, mutual respect, and fair play, enhancing the overall gaming experience and contributing to a vibrant and enjoyable community for all members.
         </template>
       </ULandingCard>
       <ULandingCard class="col-span-6 row-span-2" title="Calling Card">
@@ -41,7 +41,7 @@
           <UIcon name="i-heroicons-cube-transparent" class="text-4xl text-primary"></UIcon>
         </template>
         <template #description>
-          Calling card for the server and community Calling card for the server and community Calling card for the server and community Calling card for the server and community
+          Welcome to our SCUM community, where survival isn't just a game—it's a way of life! Whether you're a seasoned veteran or a fresh convict washed ashore, our community offers the perfect blend of camaraderie and competition. Engage in intense PVP battles, join cooperative missions, or simply explore the vast open world filled with challenges and opportunities. Our dedicated players and supportive moderators ensure an immersive and dynamic experience for all. Dive into a world where every decision matters, build your base, master the elements, and prove you have what it takes to thrive on the unforgiving island. Join us, and let's conquer the SCUM together!
         </template>
       </ULandingCard>
     </ULandingGrid>
