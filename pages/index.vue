@@ -2,7 +2,7 @@
   <div class="flex flex-col justify-center items-center min-h-96 m-[5%]">
     <div class="flex flex-col mt-24 mb-24 justify-center items-center">
       <div
-        class="gradient-text text-9xl font-bold text-center mt-20"
+        class="gradient-text text-9xl font-bold text-center mt-14"
         :style="{ animationDuration: animationDuration }"
       >
       CRITTER'S BACKYARD
@@ -10,6 +10,7 @@
       <div class="text-3xl font-bold mt-5 mb-8">
          Death is everywhere! Do you have what it takes to survive?
       </div>
+      <UButton size="lg" class="text-xl font-bold rounded-3xl" color="primary" variant="soft" to="https://discord.gg/YEAyUyQHzR" target="_blank">Discord<UIcon name="i-heroicons-link"></UIcon></UButton>
     </div>
     <ULandingGrid class="m-36 ml-48 mr-48">
       <ULandingCard class="col-span-6 row-span-4" title="Background">
