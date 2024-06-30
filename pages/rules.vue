@@ -20,10 +20,11 @@
 <style>
 .grow-on-hover {
   transition: transform 0.1s ease-in-out;
-  cursor: pointer;
+  cursor: default;
 }
 
 .grow-on-hover:hover {
   transform: scale(1.1);
+  cursor: default;
 }
 </style>
