@@ -6,7 +6,7 @@
         class="gradient-text text-5xl font-bold text-center"
         :style="{ animationDuration: animationDuration }">Critter</div>
       <div class="m-2 text-2xl font-bold">Owner</div>
-      <div><b>Discord:</b> crittercreek1</div>
+      <div><b class="text-indigo-500">Discord:</b> crittercreek1</div>
       <div class="m-2 text-xl">Im the guy who knows what the fuck</div>
       <UBadge class="m-2 font-bold" size="md" color="green" variant="solid">Online</UBadge>
     </div>
@@ -20,7 +20,7 @@ const animationDuration = `5s`
 <style>
 .gradient-text {
   display: inline-block;
-  background: linear-gradient(100deg, #b92222, #13dada, #c8ff00, #8000f7, #b92222);
+  background: linear-gradient(100deg, #d30707, #0493e6, #c8ff00, #8000f7, #00f314, #d30707);
   background-size: 200% 100%;
   background-clip: text;
   -webkit-background-clip: text;

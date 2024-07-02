@@ -22,7 +22,7 @@
             <b>Version:</b> 0.9.536.86452
           </div>
           <div class="m-2 grow-on-hover">
-            <b>Rank:</b> #906
+            <b>Peak Rank:</b> #859
           </div>
         </div>
         <iframe class="rounded-xl" src="https://discord.com/widget?id=1237309305225740328&theme=dark" width="400" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
