@@ -5,6 +5,7 @@
                 <UButton color="primary" variant="link" to="/" class="text-3xl grow-on-hover">Critters Backyard</UButton>
             </div>
             <div class="justify-self-center">
+              <UButton size="xl" class="rounded-2xl m-1" to="/squads">Squads</UButton>
                 <UButton size="xl" class="rounded-2xl m-1" to="/events">Events</UButton>
                 <UButton size="xl" class="rounded-2xl m-1" to="/server">Server</UButton>
                 <UButton size="xl" class="rounded-2xl m-1" to="/rules">Rules</UButton>
