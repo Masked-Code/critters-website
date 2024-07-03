@@ -24,7 +24,7 @@
 }
 
 .grow-on-hover:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   cursor: default;
 }
 </style>
